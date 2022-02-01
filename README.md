@@ -11,7 +11,7 @@ This repo contains the source code for 'Visnotate' which is a tool that can be u
 
 * Komal Mariam, Osama Mohammed Afzal, Wajahat Hussain, Muhammad Umar Javed, Amber Kiyani, Nasir Rajpoot, Syed Ali Khurram and Hassan Aqeel Khan, **"On Smart Gaze based Annotation of Histopathology Images for Training of Deep Convolutional Neural Networks",** *submitted to IEEE Journal of Biomedical and Health Informatics.*
 
-![blockDiagram](../media/Visnotate%20Diagram.png?raw=true)
+![blockDiagram](https://raw.githubusercontent.com/UmarJ/lsiv-python3/media/Visnotate%20Diagram.png)
 
 # Requirements
 - Openslide
@@ -83,13 +83,13 @@ At this time visinotate supports the GazePoint GP3, tracking hardware. WSI's are
 # Screenshots
 
 ## The Visnotate Interface
-![Interface Screenshot](../media/sample-ui.png?raw=true)
+![Interface Screenshot](https://github.com/UmarJ/lsiv-python3/raw/media/sample-ui.png?raw=true)
 
 ## Collected Gazepoints
-![Gazepoints Screenshot](../media/sample-gazepoints.png?raw=true)
+![Gazepoints Screenshot](https://github.com/UmarJ/lsiv-python3/raw/media/sample-gazepoints.png?raw=true)
 
 ## Generated Heatmap
-![Heatmap Screenshot](../media/sample-heatmap.png?raw=true)
+![Heatmap Screenshot](https://github.com/UmarJ/lsiv-python3/raw/media/sample-heatmap.png?raw=true)
 
 # Reference
 This repo was used to generate the results for the following paper on Gaze-based labelling of Pathology data. 
